@@ -1,3 +1,4 @@
 {
-    "cmake.ignoreCMakeListsMissing": true
+    "cmake.ignoreCMakeListsMissing": true,
+    "python.pythonPath": "C:\\Users\\filbe\\AppData\\Local\\Programs\\Python\\Python312\\python.exe"
 }
